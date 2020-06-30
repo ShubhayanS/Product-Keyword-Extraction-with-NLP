@@ -13,18 +13,18 @@
 
 - If you want more syntax highlighting, format your code like this:
 
-> update and install this package first
+> Install pip for Python3
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+$ sudo apt-get upgrade
+$ sudo apt install python3-pip
 ```
 
-> now install npm and bower packages
+> now install spacy and small model packages
 
 ```shell
-$ npm install
-$ bower install
+$ pip install spacy
+$ python -m spacy download en_core_web_sm
 ```
 
 
