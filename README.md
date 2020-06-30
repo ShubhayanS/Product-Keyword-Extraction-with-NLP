@@ -1,3 +1,4 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License](http://img.shields.io/:license-gnu-blue.svg)](http://doge.mit-license.org)
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 
