@@ -8,10 +8,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/ShubhayanS/Product-Keyword-Extraction-with-NLP?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ShubhayanS/Product-Keyword-Extraction-with-NLP/network/)
 # Product-Keyword-Extraction-with-NLP
 
+In this repo, NER is used to extract keywords from a large text. Named-entity recognition (NER) is the process of automatically identifying the entities discussed in a text and classifying them into pre-defined categories such as ‘person’, ‘organization’, ‘location’ and so on. The spaCy library allows you to train NER models by both updating an existing spacy model to suit the specific context of your text documents and also to train a fresh NER model from scratch.
+
+Why not regex or any other NLP technique other than using Spacy?
+This is because using regex its generally slower and instead of extracting particular keywords lot of junk irrelevant keywords are also identified.Moreover with superfast and efficiency of 90% Spacy is most widely used in production level. Read about Spacy at https://spacy.io/
 
 ### Installation and Setup
 
-- If you want more syntax highlighting, format your code like this:
+- Requirements for running this NLP model is Python along with Spacy. We first load the small pretrained spacy model but larger and more detailed model can be loaded by changing to "lg" instead of "sm" and then we train our custom NER (Named Entity Recognisation) for fine tuning and detection of E-Commerce products like "Alto" or "Dell Laptop". To understand each code modules we have model.py where model is getting saved and test.py for inputing custom text and testing.
 
 > Install pip for Python3
 
