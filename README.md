@@ -4,7 +4,7 @@
 ![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub stars](https://img.shields.io/github/stars/ShubhayanS/Product-Keyword-Extraction-with-NLP/?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ShubhayanS/Product-Keyword-Extraction-with-NLP//stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/ShubhayanS/Product-Keyword-Extraction-with-NLP/?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ShubhayanS/Product-Keyword-Extraction-with-NLP/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/ShubhayanS/Product-Keyword-Extraction-with-NLP?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ShubhayanS/Product-Keyword-Extraction-with-NLP/network/)
 # Product-Keyword-Extraction-with-NLP
 
