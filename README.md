@@ -38,11 +38,9 @@ $ python -m spacy download en_core_web_sm
 
 ### Step 1
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- **🍴 Fork this repo!**
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/ShubhayanS/Product-Keyword-Extraction-with-NLP.git`
+- **👯 Clone this repo to your local machine using `https://github.com/ShubhayanS/Product-Keyword-Extraction-with-NLP.git`**
 
 ### Step 2
 
