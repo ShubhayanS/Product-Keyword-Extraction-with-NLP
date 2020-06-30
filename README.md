@@ -9,6 +9,25 @@
 # Product-Keyword-Extraction-with-NLP
 
 
+### Installation and Setup
+
+- If you want more syntax highlighting, format your code like this:
+
+> update and install this package first
+
+```shell
+$ brew update
+$ brew install fvcproductions
+```
+
+> now install npm and bower packages
+
+```shell
+$ npm install
+$ bower install
+```
+
+
 ## Contributing
 
 > To get started...
