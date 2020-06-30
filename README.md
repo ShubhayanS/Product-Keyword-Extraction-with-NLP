@@ -34,7 +34,7 @@ $ python -m spacy download en_core_web_sm
 
 ## Contributing
 
-> To get started...
+> Contributors are free to welcome and finetune the model and add features. To get started...
 
 ### Step 1
 
